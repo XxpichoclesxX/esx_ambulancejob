@@ -1,2 +1,2 @@
 # esx_ambulancejob
-esx_ambulancejob espanish translated
+esx_ambulancejob spanish translated
